@@ -7,11 +7,11 @@ This is mi repository for tech.is projects
 
 </head>
 <body>
-<header><div><img src="/Users/lilianarodriguez/Documents/project html/picture1.jpg" / height= "200" width="200"></div>
+<header><div><img src="file:///Users/lilianarodriguez/Documents/project%20html/picture1.jpg" / height= "200" width="200"></div>
 <nav>
 	<ul>
 		<li><a href="#">Intro</a></li>
-		<li><a href="#">Carrears</a></li>
+		<li><a href="#">Careers/a></li>
 		<li><a href="#">Portfolio</a></li>
 		<li><a href="#">Contact Info</a></li>
 	
