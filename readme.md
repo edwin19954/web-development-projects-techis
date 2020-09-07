@@ -22,7 +22,7 @@ This is mi repository for tech.is projects
 <section class="wrapper">
 	<section class="main">
 		<article>
-			<h2>Mi Informaction</h2>
+			<h2>Mi Information</h2>
 			<p>Mi name is Edwin Rivera, I was born on Octuber 29 of 1995. I am a former police officer, and military soldier. I come from <strong>Puerto Rico</strong> from a small city called Guayama. My hoby is playing video games and watching anime. I have two younger brother, one its in the Airforce and the other its studying Chemestry.</p>
 		</article>
 		<article>
